@@ -19,7 +19,7 @@ st.title("🔲 Order QR Code Generator")
 
 st.markdown(
     "Generate a QR code using an **Order ID**. "
-    "This QR code can be scanned by the SmartTrack Logistics system."
+    "This QR code can be scanned by the Parcel Delivery Tracking System."
 )
 
 # =====================================================
